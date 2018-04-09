@@ -1,0 +1,22 @@
+.stock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    border-right: 1px solid #A6A6A6;
+    border-left: 1px solid #A6A6A6;
+    border-bottom: 1px solid #A6A6A6;
+}
+
+.symbol{
+    width: 200px;
+    padding-left: 25px;
+    text-align: left;
+}
+
+.price{
+    width: 200px;
+    padding-left: 25px;
+    text-align: left;
+}

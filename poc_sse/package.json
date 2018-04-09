@@ -1,0 +1,13 @@
+{
+  "name": "poc_sse",
+  "version": "1.0.0",
+  "description": "Proof of Concept for web realtime using Server Sent Events",
+  "author": "Yoan Ribeiro",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
